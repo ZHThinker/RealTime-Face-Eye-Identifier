@@ -4,7 +4,7 @@
 
 A high-performance Computer Vision application built with Python and OpenCV. This project goes beyond simple face detection by providing a stylized, high-tech interface for tracking subjects and identifying specific facial features in real-time.
 
-# 🌟 Key Features
+##🌟 Key Features
 -  ***Intelligent Face Detection:*** Uses optimized Haar Cascade classifiers to identify faces with high precision.
 
 -  ***Feature-Level Tracking:*** Nested detection logic to identify and track eyes within the face region.
@@ -13,11 +13,11 @@ A high-performance Computer Vision application built with Python and OpenCV. Thi
 
 -  ***High-Tech HUD:*** A stylized "Heads-Up Display" (HUD) interface inspired by advanced surveillance and cinematic tech.
 
-# 📸 Preview
+## 📸 Preview
 <img width="736" height="1408" alt="tony" src="https://github.com/user-attachments/assets/b3455be3-4d11-4ed4-a750-9e1360629727" />
 
 
-# 🛠️ Built With
+## 🛠️ Built With
 -  ***Python:*** Core logic and scripting.
 
 -  ***OpenCV:*** Image processing and real-time video stream handling.
@@ -25,7 +25,7 @@ A high-performance Computer Vision application built with Python and OpenCV. Thi
 -  ***Haar Cascades:*** Pre-trained XML models for facial and ocular feature extraction.
 
 
-# 🛠️ Installation & Setup
+## 🛠️ Installation & Setup
 
 
 ### 1. Clone the repository
@@ -50,5 +50,5 @@ python main.py
 
 
 
- # 📜 License
+ ## 📜 License
 This project is licensed under the MIT License. See the  [**LICENSE**](/LICENSE) file for more details.
