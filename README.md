@@ -43,9 +43,9 @@ pip install opencv-python
 python main.py
 
 ```
- **Note:** Ensure your webcam is connected and you have the haarcascade_frontalface_default.xml and haarcascade_eye.xml files in your project directory.
+ **Note:** Ensure your webcam is connected and you have the  [*haarcascade_frontalface_default.xml*](/haarcascade_frontalface_default.xml) and [*haarcascade_eye.xml*](/haarcascade_eye.xml)haarcascade_eye.xml files in your project directory.
 
 
 
  # 📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the  [**LICENSE**](/LICENSE) file for more details.
