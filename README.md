@@ -29,23 +29,24 @@ A high-performance Computer Vision application built with Python and OpenCV. Thi
 
 
 ### 1. Clone the repository
-```bash
+> ```bash
+> git clone https://github.com/Anlin-Abishek/RealTime-Face-Eye-Identifier.git
+> ```
 
-git clone [[https://github.com/YOUR_USERNAME/RealTime-Face-Identifier.git](https://github.com/YOUR_USERNAME/RealTime-Face-Identifier.git)](https://github.com/Anlin-Abishek/RealTime-Face-Eye-Identifier.git)
+> ```bash
+> cd RealTime-Face-Eye-Identifier
+> ```
 
-```
-```bash
-cd RealTime-Face-Identifier
-```
 ### 2. Install dependencies
-```bash
-pip install opencv-python
-```
-### 3. Start the application
-```bash
-python main.py
+> ```bash
+> pip install opencv-python
+> ```
 
-```
+### 3. Start the application
+> ```bash
+> python main.py
+> ```
+
  **Note:** Ensure your webcam is connected and you have the  [*haarcascade_frontalface_default.xml*](/haarcascade_frontalface_default.xml) and [*haarcascade_eye.xml*](/haarcascade_eye.xml)haarcascade_eye.xml files in your project directory.
 
 
