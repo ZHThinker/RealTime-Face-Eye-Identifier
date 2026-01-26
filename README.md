@@ -4,7 +4,7 @@
 
 A high-performance Computer Vision application built with Python and OpenCV. This project goes beyond simple face detection by providing a stylized, high-tech interface for tracking subjects and identifying specific facial features in real-time.
 
-##🌟 Key Features
+## 🌟 Key Features
 -  ***Intelligent Face Detection:*** Uses optimized Haar Cascade classifiers to identify faces with high precision.
 
 -  ***Feature-Level Tracking:*** Nested detection logic to identify and track eyes within the face region.
