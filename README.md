@@ -31,7 +31,10 @@ A high-performance Computer Vision application built with Python and OpenCV. Thi
 ### 1. Clone the repository
 ```bash
 
-git clone [https://github.com/YOUR_USERNAME/RealTime-Face-Identifier.git](https://github.com/YOUR_USERNAME/RealTime-Face-Identifier.git)
+git clone [[https://github.com/YOUR_USERNAME/RealTime-Face-Identifier.git](https://github.com/YOUR_USERNAME/RealTime-Face-Identifier.git)](https://github.com/Anlin-Abishek/RealTime-Face-Eye-Identifier.git)
+
+```
+```bash
 cd RealTime-Face-Identifier
 ```
 ### 2. Install dependencies
